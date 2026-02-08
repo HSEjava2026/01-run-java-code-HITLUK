@@ -1,7 +1,11 @@
-package ru.hse.lab1;
+package src.ru.hse.lab1;
 
-import ru.hse.lab1.second.Person;
-
+import src.ru.hse.lab1.second.Person;
+/**
+ * @author Кузнецов Кирилл Вадимович
+ * @version 1.0
+ * @since 2026
+ */
 public class Main {
     public static void main(String[] args) {
         Person person = new Person("kirill",19);

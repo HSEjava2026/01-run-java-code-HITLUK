@@ -1,4 +1,10 @@
-package ru.hse.lab1.second;
+package src.ru.hse.lab1.second;
+
+/**
+ * @author Кузнецов Кирилл Вадимович
+ * @version 1.0
+ * @since 2026
+ */
 
 public class Person {
     String name = "";
@@ -7,6 +13,7 @@ public class Person {
         this.name = name;
         this.age = age;
     }
+
 public String getName() {
     return name;
 }
